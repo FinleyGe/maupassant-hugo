@@ -1,0 +1,7 @@
+.post-toc {
+  transition: all 0.3s ease;
+}
+
+.post-toc:hover {
+  width: 300px !important;
+}
